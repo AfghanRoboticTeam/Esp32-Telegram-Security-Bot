@@ -72,9 +72,4 @@ A smart security system using ESP32 that detects motion/sound and sends real-tim
 Pull requests welcome! For major changes, please open an issue first.
 
 ## 📄 License
-MIT © [Your Name](https://github.com/AfghanRoboticTeam)
-
----
-
-🔗 **Full Tutorial:** [YouTube Video Walkthrough]([)](https://youtu.be/hbCDsZo1Kf8?si=_fE2Jf_MdwqbHulE)
-```
+MIT © Afghan Robotic Team (https://github.com/AfghanRoboticTeam)
